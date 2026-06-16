@@ -1,0 +1,4 @@
+Power BI Desktop (Latest Version)
+Microsoft Excel
+Employee Attrition Dataset (.csv)
+Windows 10/11
